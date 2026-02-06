@@ -1,0 +1,5 @@
+## Hardcover service
+This is a Django service, utilizing the Hardcover API to allow for an external tracker for personal books.
+
+### Usage
+Personal use, the only endpoint is currently a "Check-in" endpoint that will take in an ISBN and add it to your user profile
